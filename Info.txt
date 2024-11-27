@@ -20,3 +20,4 @@ this line is added from MAIN
 
 UPDATE FROM DESKTOP- IN MAIN
 
+LOGO alingment fixe
